@@ -1,5 +1,4 @@
 import pandas as npd
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 mpr = npd.read_csv(
     r"C:\\Users\\alexa\\Downloads\\Datathon-2022-data-master\\data\\dataset\\CanBank\\monetary_policy_report.csv")
